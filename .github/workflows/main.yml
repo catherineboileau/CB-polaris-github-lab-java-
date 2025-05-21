@@ -1,4 +1,4 @@
-# example workflow for Polaris scans using the Black Duck Action
+## example workflow for Polaris scans using the Black Duck Action
 # https://github.com/marketplace/actions/black-duck-security-scan
 name: polaris
 on:
